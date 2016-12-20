@@ -4,7 +4,7 @@
 - Git-Hub : https://www.github.com/ven2s
 
 
-## **경력**
+# **경력**
 
 부뜰정보시스템 
 
@@ -19,7 +19,7 @@
  * 사용기술 : Objective-C
 
  
-## **프로젝트**
+# **프로젝트**
 
 
 IBK POST차세대 - 고객센터
