@@ -72,7 +72,7 @@ KDB생명 망분리 솔루션 및 고도화프로젝트
 
 ===============
 
-술조타그래 - 술 전용 소셜네트워크 앱 (![Github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrVxSGrr8uwBbKNkuCQJqNyZ_RO3bl1iFidvsi-GvicWepgSg) : [link](https://github.com/sooljottagrae/ios_sooljottagrae))
+술조타그래 - 술 전용 소셜네트워크 앱 (Git-Hub : [link](https://github.com/sooljottagrae/ios_sooljottagrae))
 
  - 진행기간 : 2016.06.27~2016.07.29
  - 주요내용 : 술을 주제로 한 성인을 위한 술문화 소셜네트워크서비스
