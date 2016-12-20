@@ -88,4 +88,4 @@ KDB생명 망분리 솔루션 및 고도화프로젝트
 
  - 사용기술 : Objective-C, CocoaPods ( AFNetworking, SDWebImage, FacebookSDK)
  -  결과 : 2016.07.29 프레젠테이션으로 컨셉과 한달간 작업한 내용 발표 (단, 1차개발 목표인 기본 기능 만들기까지만 성공)  :  게시글, 댓글(사진업로드포함), 자동로그인, UI 등 
-![데모영상](https://www.github.com/ven2s/resume/image/sooljota_demo.gif)
+![데모영상](https://github.com/ven2s/resume/blob/master/image/sooljota_demo.gif)
