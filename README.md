@@ -30,7 +30,7 @@
  - 사용기술 : Java, DB2(표준 SQL 사용), HTML, JavaScript<br>
  - 결과 : 10월 초 1차 테스트 , 10월 중순 2차 테스트 및 가 오픈, 11월 초 오픈 (개발 부분에 대한 문제 전혀 없이 순조롭게 오픈)<br>
 
-<br><hr><br>
+-------------------
 
 **까디프생명 - 제휴사 추가개발**<br><br>
  
@@ -40,7 +40,7 @@
   - 사용기술 : Java, JSP, Oracle<br>
   - 결과 : 개발완료 및 CJO쇼핑과 연결 확인(테스트)<br>
 
-<br><hr><br>
+-------------------
 
 **미래에셋생명 - TM시스템 고도화 프로젝트**<br><br>
 
@@ -50,8 +50,7 @@
  - 사용기술 : Java, JavaSrcipt, XPlatform, Oracle, JSP<br>
  - 결과 : 고객사의 요청으로 인한 오픈일 딜레이 (개발은 완료했으나 기존 인력 중 대거 철수) - 10월 오픈<br>
 
-<br><hr><br>
-
+-------------------
 **KDB생명 망분리 솔루션 및 고도화프로젝트 **<br><br>
 
  - 진행기간 :   2015.06-2015.11<br>
@@ -60,7 +59,7 @@
  - 사용기술 : Java, Oracle, JavaScript<br>
  - 결과 : 11월 개발완료 및 가오픈 성공 (고객사의 요청에 의해 12월 초로 오픈이 옴겨짐 오픈에는 문제가 없었음)<br>
 
-<br><hr><br>
+-------------------
 
 **현대라이프 - 하이브리드 시스템**<br><br>
 
@@ -68,9 +67,9 @@
  - 주요내용 : 현대라이프 생명 하이브리드 시스템 유지보수<br>
  - 공헌내용 : JavaScript를 활용한 화면을 개발하기 위한 시스템의 기초 기능, 관리 화면, 추가 기능 라이브러리 / Java를 인터페이스 개발 및 수정 / 새로운 정책에 따른 SQL 수정<br>
  - 사용기술 : Java, Oracle, JSP, JavaScript<br>
- - 결과 : 10월 초 1차 테스트 , 10월 중순 2차 테스트 및 가 오픈, 11월 초 오픈 (개발 부분에 대한 문제 전혀 없이 순조롭게 오픈)
-
-<br><hr><br>
+ - 결과 : 10월 초 1차 테스트 , 10월 중순 2차 테스트 및 가 오픈, 11월 초 오픈 (개발 부분에 대한 문제 전혀 없이 순조롭게 오픈)<br>
+ 
+-------------------
 
 **술조타그래 - 술 전용 소셜네트워크 앱 (Git-Hub : [link](https://github.com/sooljottagrae/ios_sooljottagrae))**<br><br>
 
@@ -94,9 +93,9 @@
 
 ![데모영상](https://github.com/ven2s/resume/blob/master/image/sooljota_demo.gif)<br>
 
-<br><hr><br>
+-------------------
 
-** 가제 Moim - 스터디모임을 위한 앱 (Git-Hub : [Link](https://github.com/SwiftStudy6/SwiftStudio) )**<br><br>
+**가제 Moim - 스터디모임을 위한 앱 (Git-Hub : [Link](https://github.com/SwiftStudy6/SwiftStudio) )**<br><br>
  
  - 진행기간 : 2016.12.30 ~ (진행중)<br>
  - 주요내용 : 스터디모임을 위한 커뮤니티 앱 (게시판, 채팅, 목표관리, N빵 확인, 모임참불)<br>
@@ -104,4 +103,4 @@
  <br>
  - 사용기술 : Swift3, Cocoapods(Firebase, SDWebImage, PullToRefresher, RxSwift, Toast)<br>
 
-<br><hr><br>
+-------------------
