@@ -1,6 +1,6 @@
 **Resume**
 ===============
-- Blog : 웬스의 로그 ( http://ven2s.tistory.com )
+- Blog : 웬스의 Log ( http://ven2s.github.io )
 - Git-Hub : https://www.github.com/ven2s
 
 
