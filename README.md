@@ -109,10 +109,17 @@
 
 **가제 Moim - 스터디모임을 위한 앱 (Git-Hub : [Link](https://github.com/SwiftStudy6/SwiftStudio) )**<br><br>
  
- - 진행기간 : 2016.12.30 ~ (진행중)<br>
+ - 진행기간 : 2016.12.30 ~ 2017.06.30 (개발 중단)<br>
  - 주요내용 : 스터디모임을 위한 커뮤니티 앱 (게시판, 채팅, 목표관리, N빵 확인, 모임참불)<br>
  - 공헌내용 : 그룹(생성, 메인, 셋팅), 커스텀 탭바, 게시판(메인화면) - 스터디 부팀장<br>
  <br>
  - 사용기술 : Swift3, Cocoapods(Firebase, SDWebImage, PullToRefresher, RxSwift, Toast)<br>
 
 -------------------
+**가계부 앱 - 개인어플**
+
+ - 진행기간 : 2016.11 ~ (진행중)
+ 
+ - 주요내용 : 가계부 어플(금일, 보고서, 자산, 셋팅)
+ 
+ - 사용기술 : Swift3, Cocoapods, Carthage, Fabric, Realm, Firebase
