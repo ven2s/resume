@@ -1,7 +1,25 @@
 **Resume**
 ===============
-- Blog : 웬스의 Log ( http://ven2s.github.io )
-- Git-Hub : https://www.github.com/ven2s
+ 
+ - Email : wajl1004@gamil.com
+ - Blog : 웬스의 Log ( http://ven2s.tistory.com )
+ - Git-Hub : https://www.github.com/ven2s
+
+## **보유기술**
+
+ Objective-C, Swift, Java, JavaScript, Jquery, Oracle SQL
+
+## **교육**
+
+서경대학교 - 4년제 (편입)
+ * 전   공 : 컴퓨터공학과
+ * 교육기간 : 2012.03 ~ 2014.02 (졸업)
+ 
+
+패스트캠퍼스 -  iOS School 1기
+
+ * 교육기간 : 2016.04.25. ~ 2016.07.29.
+ * 이수내용 : Objective-C를 통한 iOS개발자 양성
 
 
 ## **경력**
@@ -11,12 +29,6 @@
  - 재직기간 : 2014.03.03. ~ 2016.04.22. (사원)
  - 담당업무 : 사내솔루션 라이브러리 제작 및 제휴사 인터페이스 개발자
  - 사용기술 : Java, JavaScript, SQL(Oracle), iBatis, Spring Framework
-
-패스트캠퍼스 -  iOS School 1기
-
- * 교육기간 : 2016.04.25. ~ 2016.07.29.
- *  교육내용 : Objective-C를 통한 iOS개발자 양성
- * 사용기술 : Objective-C
 
  
 ## **프로젝트**
