@@ -118,8 +118,6 @@
 -------------------
 **가계부 앱 - 개인어플**
 
- - 진행기간 : 2016.11 ~ (진행중)
- 
- - 주요내용 : 가계부 어플(금일, 보고서, 자산, 셋팅)
- 
- - 사용기술 : Swift3, Cocoapods, Carthage, Fabric, Realm, Firebase
+ - 진행기간 : 2016.11 ~ (진행중)<br>
+ - 주요내용 : 가계부 어플(금일, 보고서, 자산, 셋팅)<br>
+ - 사용기술 : Swift3, Cocoapods, Carthage, Fabric, Realm, Firebase<br>
