@@ -6,12 +6,11 @@
  - Git-Hub : https://www.github.com/ven2s
 
 ## **보유기술(Tech Skil)**
--------------
 
  Objective-C, Swift, Java, JavaScript, Jquery, Oracle SQL, Spring3
 
 ## **교육**
--------------
+
 
 #### 서경대학교 - 4년제 (편입)
  * 전   공 : 컴퓨터공학과
@@ -24,7 +23,7 @@
 
 
 ## **경력**
--------------
+
 
 #### 부뜰정보시스템 
 
@@ -34,10 +33,7 @@
 
  
 ## **프로젝트**
--------------
-
 ### **부뜰정보시스템**
-
 #### **IBK POST차세대 - 고객센터**<br>
 
  - 진행기간 :   2014.04-2014.10<br>
@@ -84,7 +80,6 @@
  
 
 ### 개인 혹은 외부
--------------------
 
 #### **술조타그래 - 술 전용 소셜네트워크 앱 (Git-Hub : [link](https://github.com/sooljottagrae/ios_sooljottagrae))**<br><br>
 
