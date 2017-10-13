@@ -9,7 +9,7 @@
 
  Objective-C, Swift, Java, JavaScript, Jquery, Oracle SQL, Spring3
 
-## **교육**
+## **교육(Education)** 
 
 
 #### 서경대학교 - 4년제 (편입)
