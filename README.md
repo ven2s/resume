@@ -113,8 +113,12 @@
  - 사용기술 : Swift3, Cocoapods(Firebase, SDWebImage, PullToRefresher, RxSwift, Toast)<br>
 
 
-#### **가계부 앱 - 개인어플**
+#### **mouney - 개인어플**
 
- - 진행기간 : 2016.11 ~ (진행중)<br>
- - 주요내용 : 가계부 어플(금일, 보고서, 자산, 셋팅)<br>
+ - 진행기간 : 2017.04 ~ 2018.03<br>
+ - 주요내용 : 커플, 가족 혹은 원하는 사람과 자산 내용을 공유할수 있는 어플<br>
  - 사용기술 : Swift3, Cocoapods, Carthage, Fabric, Realm, Firebase<br>
+ - 앱스토어 : https://itunes.apple.com/kr/app/mouney/id1356050846?mt=8<br>
+ 
+ ![예제](https://github.com/ven2s/resume/blob/master/image/preview_small.png)<br>
+
