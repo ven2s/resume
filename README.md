@@ -93,7 +93,7 @@
  - 최종결과 : 현재 유지 및 보수 담당<br>
 
 
-#### 모바일셀프가이드 ([전쟁기념관](https://itunes.apple.com/kr/app/id1256294989?mt=8), [제주민속촌](https://itunes.apple.com/kr/app/id1320685883?mt=8), [개항박물관](https://itunes.apple.com/kr/app/id1408487775?mt=8), [경기도박물관](https://itunes.apple.com/kr/app/id1432356975?mt=8) <br>
+#### 모바일셀프가이드 ([전쟁기념관](https://itunes.apple.com/kr/app/id1256294989?mt=8), [제주민속촌](https://itunes.apple.com/kr/app/id1320685883?mt=8), [개항박물관](https://itunes.apple.com/kr/app/id1408487775?mt=8), [경기도박물관](https://itunes.apple.com/kr/app/id1432356975?mt=8) )<br>
  - 진행기간 : 2018.06.01 ~ <br>
  - 주요내용 : 박물관체험관람시스템(AR을 포함한 7개의 미션을 통해 체험관람하는 앱) <br>
  - 공헌내용 : 신규 디자인(개항, 경기도) 적용, iPhoneX 대응, 버그 수정 및 유지보수<br>
