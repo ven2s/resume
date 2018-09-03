@@ -85,7 +85,7 @@
  - 결과 : 10월 초 1차 테스트 , 10월 중순 2차 테스트 및 가 오픈, 11월 초 오픈 (개발 부분에 대한 문제 전혀 없이 순조롭게 오픈)<br>
  
 ### **인스에듀테인먼트**
-#### Creccer 유지보수 (Creccer, CreccerAcademy)<br>
+#### Creccer 유지보수 ([Creccer](https://itunes.apple.com/kr/app/id1001915735?mt=8), [CreccerAcademy](https://itunes.apple.com/kr/app/id1343664713?mt=8))<br>
  - 진행기간 : 2018.06.01 ~ <br>
  - 주요내용 : 학교, 박물관등 에서 사용가능한 스마트교육 시스템<br>
  - 공헌내용 : iPhoneX 대응, 버그 수정 및 컨텐츠 수정 등등 <br>
@@ -93,7 +93,7 @@
  - 최종결과 : 현재 유지 및 보수 담당<br>
 
 
-#### 모바일셀프가이드 (전쟁기념관, 제주민속촌, 개항박물관, 경기도박물관) <br>
+#### 모바일셀프가이드 ([전쟁기념관](https://itunes.apple.com/kr/app/id1256294989?mt=8), [제주민속촌](https://itunes.apple.com/kr/app/id1320685883?mt=8), [개항박물관](https://itunes.apple.com/kr/app/id1408487775?mt=8), [경기도박물관](https://itunes.apple.com/kr/app/id1432356975?mt=8) <br>
  - 진행기간 : 2018.06.01 ~ <br>
  - 주요내용 : 박물관체험관람시스템(AR을 포함한 7개의 미션을 통해 체험관람하는 앱) <br>
  - 공헌내용 : 신규 디자인(개항, 경기도) 적용, iPhoneX 대응, 버그 수정 및 유지보수<br>
