@@ -109,6 +109,10 @@
  - 사용기술 : Java, JavaScript, JQuery, eGovFrameWork(Spring), Oracle
  - 결   과 : 현 전담 개발자
  
+ #### eAccounting 지원
+ - 참여내용 : FnCO, 스마트카드(현 티머니), yanolja, IBK연금보험 eAccounting 개발 지원
+ - 공헌내용 : 모바일 연동, 메인대시보드, Push, Email 전송, I/F 개발 등
+ - 사용기술 : Java, Jquery, Javascript, SpringFramework, Oracle DMBS
  
 
 ### 개인 혹은 외부
