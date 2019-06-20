@@ -87,7 +87,7 @@
  
 ### **인스에듀테인먼트**
 #### Creccer 유지보수 ([Creccer](https://itunes.apple.com/kr/app/id1001915735?mt=8), [CreccerAcademy](https://itunes.apple.com/kr/app/id1343664713?mt=8))<br>
- - 진행기간 : 2018.06.01 ~ <br>
+ - 진행기간 : 2018.06.01 ~ 2018.10.31 <br>
  - 주요내용 : 학교, 박물관등 에서 사용가능한 스마트교육 시스템<br>
  - 공헌내용 : iPhoneX 대응, 버그 수정 및 컨텐츠 수정, 유료화 등 <br>
  - 사용기술 : Objective-C <br>
@@ -107,7 +107,6 @@
  - 주요내용 : 경남에너지 하이브리드앱 및 서버, 인터페이스 유지보수
  - 공헌내용 : 유지보수 담당(현장관리, 고객지원)
  - 사용기술 : Java, JavaScript, JQuery, eGovFrameWork(Spring), Oracle
- - 결   과 : 현 전담 개발자
  
  #### eAccounting 지원
  - 참여내용 : FnCO, 스마트카드(현 티머니), yanolja, IBK연금보험 eAccounting 개발 지원
