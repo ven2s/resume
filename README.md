@@ -104,14 +104,19 @@
  ### **에이에스피엔**
  #### 경남에너지
  - 진행기간 : 2018.11.01 ~ (진행중)
- - 주요내용 : 경남에너지 하이브리드앱 및 서버, 인터페이스 유지보수
- - 공헌내용 : 유지보수 담당(현장관리, 고객지원)
+ - 주요내용 : 경남에너지 하이브리드앱 및 서버, 인터페이스 유지보수, 신규 기능 개발 및 보완
+ - 공헌내용 : 유지보수 담당(현장관리, 고객지원), 모바일 관련 지원(서버이상 대응 등)
  - 사용기술 : Java, JavaScript, JQuery, eGovFrameWork(Spring), Oracle
  
- #### eAccounting 지원
+ #### eAccounting 개발 지원
  - 참여내용 : FnCO, 스마트카드(현 티머니), yanolja, IBK연금보험 eAccounting 개발 지원
  - 공헌내용 : 모바일 연동, 메인대시보드, Push, Email 전송, I/F 개발 등
  - 사용기술 : Java, Jquery, Javascript, SpringFramework, Oracle DMBS
+ 
+ #### iOS 유지보수 및 개발
+ - 참여내용 : 이어카운팅, SFA, 설비 앱 유지보수
+ - 공헌내용 : 기존 앱 추가 개발 및 인증서 갱신, 하이브리드 웹앱 개발(진행중)
+ - 사용기술 : Objective-C, Swift, Cocoapods, Firebase
  
 
 ### 개인 혹은 외부
