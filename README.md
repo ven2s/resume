@@ -40,8 +40,8 @@
 #### 에이에스피엔 
 
  - 재직기간 : 2018.11.01 ~ (재직중)
- - 담당업무 : Java 웹/서버 프로그래머
- - 사용기술 : Java, Spring
+ - 담당업무 : Java 웹/서버 프로그래머, iOS 앱 유지보수 및 개발 (전담)
+ - 사용기술 : Java, Spring, Swift, Objective-C
  
 ## **프로젝트**
 ### **부뜰정보시스템**
@@ -113,10 +113,17 @@
  - 공헌내용 : 모바일 연동, 메인대시보드, Push, Email 전송, I/F 개발 등
  - 사용기술 : Java, Jquery, Javascript, SpringFramework, Oracle DMBS
  
- #### iOS 유지보수 및 개발
- - 참여내용 : 이어카운팅, SFA, 설비 앱 유지보수
- - 공헌내용 : 기존 앱 추가 개발 및 인증서 갱신, 하이브리드 웹앱 개발(진행중)
- - 사용기술 : Objective-C, Swift, Cocoapods, Firebase
+ #### HelloCompany(GroupWare) 고도화개발
+  - 참여내용 : GroupWare Cloud 용으로 컨버전 및 시스템 설계 및 보완
+  - 공헌내용 : 그룹웨어 시스템 보완 및 개발, 신기술 적용
+  - 사용기술 : Java, JS, Spring5(예정), MariaDB etc
+  - 진행기간 : 2020.02.01 ~ (진행중)
+  
+  #### iOS 유지보수 및 개발
+ - 진행기간 : 2019.06 ~ (진행중)
+ - 참여내용 : 이어카운팅, SFA, 설비 앱 유지보수, 하이브리드앱 개발
+ - 공헌내용 : 기존 앱 추가 개발 및 인증서 갱신, 하이브리드 앱
+ - 사용기술 : Objective-C, Swift, Cocoapods, Firebase SDK
  
 
 ### 개인 혹은 외부
