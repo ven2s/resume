@@ -125,7 +125,12 @@
  - 공헌내용 : 기존 앱 추가 개발 및 인증서 갱신, 하이브리드 앱
  - 사용기술 : Objective-C, Swift, Cocoapods, Firebase SDK
  
-
+ #### GS리테일 eAcc 
+  - 참여내용 : eAcc 화면 개발 및 모바일 개발 참여
+  - 공헌내용 : eAcc 품의서화면 개발, 모바일 관련 
+  - 사용기술 : Java, js, Spring, Mysql
+  - 진행기간 : 2023.05.01 ~ 2023.09.31
+ 
 ### 개인 혹은 외부
 
 #### **술조타그래 - 술 전용 소셜네트워크 앱 (Git-Hub : [link](https://github.com/sooljottagrae/ios_sooljottagrae))**<br><br>
