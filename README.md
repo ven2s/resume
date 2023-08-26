@@ -7,7 +7,7 @@
 
 ## **보유기술(Tech Skil)**
 
- Objective-C, Swift, Java, JavaScript, Jquery, Oracle SQL, Spring3
+ Java, JavaScript, Jquery, Oracle/Mysql, Spring framework,  Objective-C, Swift
 
 ## **교육(Education)** 
 
